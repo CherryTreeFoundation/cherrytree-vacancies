@@ -1,0 +1,258 @@
+{
+  "it_support": {
+    "count": 737,
+    "asOf": "10 July 2026"
+  },
+  "it_tech": {
+    "count": 1670,
+    "asOf": "10 July 2026"
+  },
+  "web_dev": {
+    "count": 933,
+    "asOf": "10 July 2026"
+  },
+  "qa_tester": {
+    "count": 18,
+    "asOf": "10 July 2026"
+  },
+  "jr_data": {
+    "count": 2243,
+    "asOf": "10 July 2026"
+  },
+  "software_dev": {
+    "count": 1698,
+    "asOf": "10 July 2026"
+  },
+  "cyber": {
+    "count": 634,
+    "asOf": "10 July 2026"
+  },
+  "cloud_eng": {
+    "count": 458,
+    "asOf": "10 July 2026"
+  },
+  "recept": {
+    "count": 545,
+    "asOf": "10 July 2026"
+  },
+  "cust_svc": {
+    "count": 3124,
+    "asOf": "10 July 2026"
+  },
+  "admin_a": {
+    "count": 5884,
+    "asOf": "10 July 2026"
+  },
+  "hr_asst": {
+    "count": 1076,
+    "asOf": "10 July 2026"
+  },
+  "off_coord": {
+    "count": 4742,
+    "asOf": "10 July 2026"
+  },
+  "hr_adv": {
+    "count": 1238,
+    "asOf": "10 July 2026"
+  },
+  "ops_off": {
+    "count": 8355,
+    "asOf": "10 July 2026"
+  },
+  "biz_dir": {
+    "count": 4175,
+    "asOf": "10 July 2026"
+  },
+  "care_train": {
+    "count": 6,
+    "asOf": "10 July 2026"
+  },
+  "home_care": {
+    "count": 1138,
+    "asOf": "10 July 2026"
+  },
+  "care_supp": {
+    "count": 3658,
+    "asOf": "10 July 2026"
+  },
+  "health_a": {
+    "count": 1877,
+    "asOf": "10 July 2026"
+  },
+  "mh_supp": {
+    "count": 1131,
+    "asOf": "10 July 2026"
+  },
+  "snr_care": {
+    "count": 513,
+    "asOf": "10 July 2026"
+  },
+  "dep_care": {
+    "count": 389,
+    "asOf": "10 July 2026"
+  },
+  "care_dir": {
+    "count": 79,
+    "asOf": "10 July 2026"
+  },
+  "class_sup": {
+    "count": 3597,
+    "asOf": "10 July 2026"
+  },
+  "teach_a": {
+    "count": 6891,
+    "asOf": "10 July 2026"
+  },
+  "learn_m": {
+    "count": 2523,
+    "asOf": "10 July 2026"
+  },
+  "youth_w": {
+    "count": 599,
+    "asOf": "10 July 2026"
+  },
+  "tutor": {
+    "count": 16737,
+    "asOf": "10 July 2026"
+  },
+  "past_lead": {
+    "count": 211,
+    "asOf": "10 July 2026"
+  },
+  "prog_lead": {
+    "count": 720,
+    "asOf": "10 July 2026"
+  },
+  "head_teach": {
+    "count": 582,
+    "asOf": "10 July 2026"
+  },
+  "con_train": {
+    "count": 5,
+    "asOf": "10 July 2026"
+  },
+  "labourer": {
+    "count": 184,
+    "asOf": "10 July 2026"
+  },
+  "banksman": {
+    "count": 3,
+    "asOf": "10 July 2026"
+  },
+  "cscs_op": {
+    "count": 77,
+    "asOf": "10 July 2026"
+  },
+  "site_adm": {
+    "count": 371,
+    "asOf": "10 July 2026"
+  },
+  "asst_sm": {
+    "count": 948,
+    "asOf": "10 July 2026"
+  },
+  "site_mgr": {
+    "count": 1686,
+    "asOf": "10 July 2026"
+  },
+  "proj_mgr": {
+    "count": 2096,
+    "asOf": "10 July 2026"
+  },
+  "wh_train": {
+    "count": 16,
+    "asOf": "10 July 2026"
+  },
+  "wh_op": {
+    "count": 1489,
+    "asOf": "10 July 2026"
+  },
+  "picker": {
+    "count": 112,
+    "asOf": "10 July 2026"
+  },
+  "delivery": {
+    "count": 7811,
+    "asOf": "10 July 2026"
+  },
+  "dispatch": {
+    "count": 430,
+    "asOf": "10 July 2026"
+  },
+  "trans_plan": {
+    "count": 280,
+    "asOf": "10 July 2026"
+  },
+  "wh_lead": {
+    "count": 586,
+    "asOf": "10 July 2026"
+  },
+  "log_coord": {
+    "count": 1637,
+    "asOf": "10 July 2026"
+  },
+  "wh_mgr": {
+    "count": 1176,
+    "asOf": "10 July 2026"
+  },
+  "appren_eng": {
+    "count": 427,
+    "asOf": "10 July 2026"
+  },
+  "jr_tech": {
+    "count": 190,
+    "asOf": "10 July 2026"
+  },
+  "grad_eng": {
+    "count": 978,
+    "asOf": "10 July 2026"
+  },
+  "engineer": {
+    "count": 10938,
+    "asOf": "10 July 2026"
+  },
+  "snr_eng": {
+    "count": 2624,
+    "asOf": "10 July 2026"
+  },
+  "princ_eng": {
+    "count": 247,
+    "asOf": "10 July 2026"
+  },
+  "chief_eng": {
+    "count": 92,
+    "asOf": "10 July 2026"
+  },
+  "eng_dir": {
+    "count": 675,
+    "asOf": "10 July 2026"
+  },
+  "sec_stew": {
+    "count": 0,
+    "asOf": "10 July 2026"
+  },
+  "sec_off": {
+    "count": 23,
+    "asOf": "10 July 2026"
+  },
+  "corp_sec": {
+    "count": 225,
+    "asOf": "10 July 2026"
+  },
+  "sec_lead": {
+    "count": 819,
+    "asOf": "10 July 2026"
+  },
+  "sec_ops": {
+    "count": 951,
+    "asOf": "10 July 2026"
+  },
+  "head_sec": {
+    "count": 419,
+    "asOf": "10 July 2026"
+  },
+  "sec_consult": {
+    "count": 433,
+    "asOf": "10 July 2026"
+  }
+}
