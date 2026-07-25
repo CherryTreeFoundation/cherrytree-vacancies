@@ -1,258 +1,258 @@
 {
   "it_support": {
-    "count": 728,
-    "asOf": "17 July 2026"
+    "count": 717,
+    "asOf": "25 July 2026"
   },
   "it_tech": {
-    "count": 1697,
-    "asOf": "17 July 2026"
+    "count": 1783,
+    "asOf": "25 July 2026"
   },
   "web_dev": {
-    "count": 895,
-    "asOf": "17 July 2026"
+    "count": 894,
+    "asOf": "25 July 2026"
   },
   "qa_tester": {
-    "count": 17,
-    "asOf": "17 July 2026"
+    "count": 22,
+    "asOf": "25 July 2026"
   },
   "jr_data": {
-    "count": 2141,
-    "asOf": "17 July 2026"
+    "count": 2110,
+    "asOf": "25 July 2026"
   },
   "software_dev": {
-    "count": 1621,
-    "asOf": "17 July 2026"
+    "count": 1667,
+    "asOf": "25 July 2026"
   },
   "cyber": {
-    "count": 632,
-    "asOf": "17 July 2026"
+    "count": 637,
+    "asOf": "25 July 2026"
   },
   "cloud_eng": {
-    "count": 453,
-    "asOf": "17 July 2026"
+    "count": 456,
+    "asOf": "25 July 2026"
   },
   "recept": {
-    "count": 570,
-    "asOf": "17 July 2026"
+    "count": 560,
+    "asOf": "25 July 2026"
   },
   "cust_svc": {
-    "count": 3198,
-    "asOf": "17 July 2026"
+    "count": 3101,
+    "asOf": "25 July 2026"
   },
   "admin_a": {
-    "count": 5952,
-    "asOf": "17 July 2026"
+    "count": 5981,
+    "asOf": "25 July 2026"
   },
   "hr_asst": {
-    "count": 1039,
-    "asOf": "17 July 2026"
+    "count": 1006,
+    "asOf": "25 July 2026"
   },
   "off_coord": {
-    "count": 4819,
-    "asOf": "17 July 2026"
+    "count": 4822,
+    "asOf": "25 July 2026"
   },
   "hr_adv": {
-    "count": 1197,
-    "asOf": "17 July 2026"
+    "count": 1187,
+    "asOf": "25 July 2026"
   },
   "ops_off": {
-    "count": 8424,
-    "asOf": "17 July 2026"
+    "count": 8245,
+    "asOf": "25 July 2026"
   },
   "biz_dir": {
-    "count": 4213,
-    "asOf": "17 July 2026"
+    "count": 4347,
+    "asOf": "25 July 2026"
   },
   "care_train": {
-    "count": 6,
-    "asOf": "17 July 2026"
+    "count": 3,
+    "asOf": "25 July 2026"
   },
   "home_care": {
-    "count": 1142,
-    "asOf": "17 July 2026"
+    "count": 1083,
+    "asOf": "25 July 2026"
   },
   "care_supp": {
-    "count": 3544,
-    "asOf": "17 July 2026"
+    "count": 3377,
+    "asOf": "25 July 2026"
   },
   "health_a": {
-    "count": 1955,
-    "asOf": "17 July 2026"
+    "count": 1985,
+    "asOf": "25 July 2026"
   },
   "mh_supp": {
-    "count": 1031,
-    "asOf": "17 July 2026"
+    "count": 950,
+    "asOf": "25 July 2026"
   },
   "snr_care": {
-    "count": 497,
-    "asOf": "17 July 2026"
+    "count": 460,
+    "asOf": "25 July 2026"
   },
   "dep_care": {
-    "count": 379,
-    "asOf": "17 July 2026"
+    "count": 336,
+    "asOf": "25 July 2026"
   },
   "care_dir": {
-    "count": 79,
-    "asOf": "17 July 2026"
+    "count": 85,
+    "asOf": "25 July 2026"
   },
   "class_sup": {
-    "count": 3527,
-    "asOf": "17 July 2026"
+    "count": 3236,
+    "asOf": "25 July 2026"
   },
   "teach_a": {
-    "count": 6684,
-    "asOf": "17 July 2026"
+    "count": 6092,
+    "asOf": "25 July 2026"
   },
   "learn_m": {
-    "count": 2420,
-    "asOf": "17 July 2026"
+    "count": 2353,
+    "asOf": "25 July 2026"
   },
   "youth_w": {
-    "count": 530,
-    "asOf": "17 July 2026"
+    "count": 539,
+    "asOf": "25 July 2026"
   },
   "tutor": {
-    "count": 15998,
-    "asOf": "17 July 2026"
+    "count": 14978,
+    "asOf": "25 July 2026"
   },
   "past_lead": {
-    "count": 177,
-    "asOf": "17 July 2026"
+    "count": 159,
+    "asOf": "25 July 2026"
   },
   "prog_lead": {
-    "count": 699,
-    "asOf": "17 July 2026"
+    "count": 657,
+    "asOf": "25 July 2026"
   },
   "head_teach": {
-    "count": 506,
-    "asOf": "17 July 2026"
+    "count": 465,
+    "asOf": "25 July 2026"
   },
   "con_train": {
-    "count": 6,
-    "asOf": "17 July 2026"
+    "count": 8,
+    "asOf": "25 July 2026"
   },
   "labourer": {
-    "count": 197,
-    "asOf": "17 July 2026"
+    "count": 213,
+    "asOf": "25 July 2026"
   },
   "banksman": {
-    "count": 2,
-    "asOf": "17 July 2026"
+    "count": 3,
+    "asOf": "25 July 2026"
   },
   "cscs_op": {
-    "count": 105,
-    "asOf": "17 July 2026"
+    "count": 122,
+    "asOf": "25 July 2026"
   },
   "site_adm": {
-    "count": 408,
-    "asOf": "17 July 2026"
+    "count": 405,
+    "asOf": "25 July 2026"
   },
   "asst_sm": {
-    "count": 1019,
-    "asOf": "17 July 2026"
+    "count": 1016,
+    "asOf": "25 July 2026"
   },
   "site_mgr": {
     "count": 1729,
-    "asOf": "17 July 2026"
+    "asOf": "25 July 2026"
   },
   "proj_mgr": {
-    "count": 2146,
-    "asOf": "17 July 2026"
+    "count": 2174,
+    "asOf": "25 July 2026"
   },
   "wh_train": {
-    "count": 12,
-    "asOf": "17 July 2026"
+    "count": 10,
+    "asOf": "25 July 2026"
   },
   "wh_op": {
-    "count": 1378,
-    "asOf": "17 July 2026"
+    "count": 1311,
+    "asOf": "25 July 2026"
   },
   "picker": {
     "count": 107,
-    "asOf": "17 July 2026"
+    "asOf": "25 July 2026"
   },
   "delivery": {
-    "count": 7635,
-    "asOf": "17 July 2026"
+    "count": 7381,
+    "asOf": "25 July 2026"
   },
   "dispatch": {
-    "count": 429,
-    "asOf": "17 July 2026"
+    "count": 420,
+    "asOf": "25 July 2026"
   },
   "trans_plan": {
-    "count": 290,
-    "asOf": "17 July 2026"
+    "count": 289,
+    "asOf": "25 July 2026"
   },
   "wh_lead": {
-    "count": 546,
-    "asOf": "17 July 2026"
+    "count": 528,
+    "asOf": "25 July 2026"
   },
   "log_coord": {
-    "count": 1591,
-    "asOf": "17 July 2026"
+    "count": 1575,
+    "asOf": "25 July 2026"
   },
   "wh_mgr": {
-    "count": 1160,
-    "asOf": "17 July 2026"
+    "count": 1167,
+    "asOf": "25 July 2026"
   },
   "appren_eng": {
-    "count": 406,
-    "asOf": "17 July 2026"
+    "count": 422,
+    "asOf": "25 July 2026"
   },
   "jr_tech": {
-    "count": 169,
-    "asOf": "17 July 2026"
+    "count": 175,
+    "asOf": "25 July 2026"
   },
   "grad_eng": {
-    "count": 953,
-    "asOf": "17 July 2026"
+    "count": 944,
+    "asOf": "25 July 2026"
   },
   "engineer": {
-    "count": 10750,
-    "asOf": "17 July 2026"
+    "count": 10734,
+    "asOf": "25 July 2026"
   },
   "snr_eng": {
-    "count": 2545,
-    "asOf": "17 July 2026"
+    "count": 2563,
+    "asOf": "25 July 2026"
   },
   "princ_eng": {
-    "count": 251,
-    "asOf": "17 July 2026"
+    "count": 252,
+    "asOf": "25 July 2026"
   },
   "chief_eng": {
-    "count": 88,
-    "asOf": "17 July 2026"
+    "count": 90,
+    "asOf": "25 July 2026"
   },
   "eng_dir": {
-    "count": 694,
-    "asOf": "17 July 2026"
+    "count": 717,
+    "asOf": "25 July 2026"
   },
   "sec_stew": {
-    "count": 165,
-    "asOf": "17 July 2026"
+    "count": 161,
+    "asOf": "25 July 2026"
   },
   "sec_off": {
-    "count": 334,
-    "asOf": "17 July 2026"
+    "count": 330,
+    "asOf": "25 July 2026"
   },
   "corp_sec": {
-    "count": 467,
-    "asOf": "17 July 2026"
+    "count": 487,
+    "asOf": "25 July 2026"
   },
   "sec_lead": {
-    "count": 806,
-    "asOf": "17 July 2026"
+    "count": 814,
+    "asOf": "25 July 2026"
   },
   "sec_ops": {
-    "count": 993,
-    "asOf": "17 July 2026"
+    "count": 1012,
+    "asOf": "25 July 2026"
   },
   "head_sec": {
-    "count": 396,
-    "asOf": "17 July 2026"
+    "count": 391,
+    "asOf": "25 July 2026"
   },
   "sec_consult": {
-    "count": 416,
-    "asOf": "17 July 2026"
+    "count": 454,
+    "asOf": "25 July 2026"
   }
 }
