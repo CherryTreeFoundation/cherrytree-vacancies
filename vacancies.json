@@ -1,258 +1,258 @@
 {
   "it_support": {
-    "count": 648,
-    "asOf": "9 September 2026"
+    "count": 666,
+    "asOf": "17 September 2026"
   },
   "it_tech": {
-    "count": 1486,
-    "asOf": "9 September 2026"
+    "count": 1562,
+    "asOf": "17 September 2026"
   },
   "web_dev": {
-    "count": 868,
-    "asOf": "9 September 2026"
+    "count": 873,
+    "asOf": "17 September 2026"
   },
   "qa_tester": {
-    "count": 18,
-    "asOf": "9 September 2026"
+    "count": 20,
+    "asOf": "17 September 2026"
   },
   "jr_data": {
-    "count": 1924,
-    "asOf": "9 September 2026"
+    "count": 1978,
+    "asOf": "17 September 2026"
   },
   "software_dev": {
-    "count": 1572,
-    "asOf": "9 September 2026"
+    "count": 1542,
+    "asOf": "17 September 2026"
   },
   "cyber": {
-    "count": 685,
-    "asOf": "9 September 2026"
+    "count": 688,
+    "asOf": "17 September 2026"
   },
   "cloud_eng": {
-    "count": 418,
-    "asOf": "9 September 2026"
+    "count": 386,
+    "asOf": "17 September 2026"
   },
   "recept": {
-    "count": 474,
-    "asOf": "9 September 2026"
+    "count": 503,
+    "asOf": "17 September 2026"
   },
   "cust_svc": {
-    "count": 2816,
-    "asOf": "9 September 2026"
+    "count": 2926,
+    "asOf": "17 September 2026"
   },
   "admin_a": {
-    "count": 5542,
-    "asOf": "9 September 2026"
+    "count": 5749,
+    "asOf": "17 September 2026"
   },
   "hr_asst": {
-    "count": 879,
-    "asOf": "9 September 2026"
+    "count": 935,
+    "asOf": "17 September 2026"
   },
   "off_coord": {
-    "count": 4864,
-    "asOf": "9 September 2026"
+    "count": 4820,
+    "asOf": "17 September 2026"
   },
   "hr_adv": {
-    "count": 1157,
-    "asOf": "9 September 2026"
+    "count": 1260,
+    "asOf": "17 September 2026"
   },
   "ops_off": {
-    "count": 7216,
-    "asOf": "9 September 2026"
+    "count": 7491,
+    "asOf": "17 September 2026"
   },
   "biz_dir": {
-    "count": 4137,
-    "asOf": "9 September 2026"
+    "count": 4193,
+    "asOf": "17 September 2026"
   },
   "care_train": {
-    "count": 0,
-    "asOf": "9 September 2026"
+    "count": 1,
+    "asOf": "17 September 2026"
   },
   "home_care": {
-    "count": 1063,
-    "asOf": "9 September 2026"
+    "count": 1150,
+    "asOf": "17 September 2026"
   },
   "care_supp": {
-    "count": 2958,
-    "asOf": "9 September 2026"
+    "count": 3022,
+    "asOf": "17 September 2026"
   },
   "health_a": {
-    "count": 1913,
-    "asOf": "9 September 2026"
+    "count": 1914,
+    "asOf": "17 September 2026"
   },
   "mh_supp": {
-    "count": 888,
-    "asOf": "9 September 2026"
+    "count": 878,
+    "asOf": "17 September 2026"
   },
   "snr_care": {
-    "count": 489,
-    "asOf": "9 September 2026"
+    "count": 506,
+    "asOf": "17 September 2026"
   },
   "dep_care": {
-    "count": 286,
-    "asOf": "9 September 2026"
+    "count": 332,
+    "asOf": "17 September 2026"
   },
   "care_dir": {
-    "count": 76,
-    "asOf": "9 September 2026"
+    "count": 90,
+    "asOf": "17 September 2026"
   },
   "class_sup": {
-    "count": 2701,
-    "asOf": "9 September 2026"
+    "count": 2921,
+    "asOf": "17 September 2026"
   },
   "teach_a": {
-    "count": 5192,
-    "asOf": "9 September 2026"
+    "count": 5590,
+    "asOf": "17 September 2026"
   },
   "learn_m": {
-    "count": 2120,
-    "asOf": "9 September 2026"
+    "count": 2115,
+    "asOf": "17 September 2026"
   },
   "youth_w": {
-    "count": 449,
-    "asOf": "9 September 2026"
+    "count": 512,
+    "asOf": "17 September 2026"
   },
   "tutor": {
-    "count": 12580,
-    "asOf": "9 September 2026"
+    "count": 12997,
+    "asOf": "17 September 2026"
   },
   "past_lead": {
-    "count": 70,
-    "asOf": "9 September 2026"
+    "count": 94,
+    "asOf": "17 September 2026"
   },
   "prog_lead": {
-    "count": 681,
-    "asOf": "9 September 2026"
+    "count": 654,
+    "asOf": "17 September 2026"
   },
   "head_teach": {
-    "count": 367,
-    "asOf": "9 September 2026"
+    "count": 374,
+    "asOf": "17 September 2026"
   },
   "con_train": {
     "count": 6,
-    "asOf": "9 September 2026"
+    "asOf": "17 September 2026"
   },
   "labourer": {
-    "count": 195,
-    "asOf": "9 September 2026"
+    "count": 189,
+    "asOf": "17 September 2026"
   },
   "banksman": {
     "count": 2,
-    "asOf": "9 September 2026"
+    "asOf": "17 September 2026"
   },
   "cscs_op": {
-    "count": 112,
-    "asOf": "9 September 2026"
+    "count": 117,
+    "asOf": "17 September 2026"
   },
   "site_adm": {
     "count": 441,
-    "asOf": "9 September 2026"
+    "asOf": "17 September 2026"
   },
   "asst_sm": {
-    "count": 886,
-    "asOf": "9 September 2026"
+    "count": 894,
+    "asOf": "17 September 2026"
   },
   "site_mgr": {
-    "count": 1796,
-    "asOf": "9 September 2026"
+    "count": 1794,
+    "asOf": "17 September 2026"
   },
   "proj_mgr": {
-    "count": 2323,
-    "asOf": "9 September 2026"
+    "count": 2311,
+    "asOf": "17 September 2026"
   },
   "wh_train": {
-    "count": 13,
-    "asOf": "9 September 2026"
+    "count": 16,
+    "asOf": "17 September 2026"
   },
   "wh_op": {
-    "count": 1352,
-    "asOf": "9 September 2026"
+    "count": 1402,
+    "asOf": "17 September 2026"
   },
   "picker": {
-    "count": 119,
-    "asOf": "9 September 2026"
+    "count": 120,
+    "asOf": "17 September 2026"
   },
   "delivery": {
-    "count": 6352,
-    "asOf": "9 September 2026"
+    "count": 6483,
+    "asOf": "17 September 2026"
   },
   "dispatch": {
-    "count": 434,
-    "asOf": "9 September 2026"
+    "count": 439,
+    "asOf": "17 September 2026"
   },
   "trans_plan": {
-    "count": 298,
-    "asOf": "9 September 2026"
+    "count": 295,
+    "asOf": "17 September 2026"
   },
   "wh_lead": {
-    "count": 458,
-    "asOf": "9 September 2026"
+    "count": 459,
+    "asOf": "17 September 2026"
   },
   "log_coord": {
-    "count": 1467,
-    "asOf": "9 September 2026"
+    "count": 1460,
+    "asOf": "17 September 2026"
   },
   "wh_mgr": {
-    "count": 1028,
-    "asOf": "9 September 2026"
+    "count": 1030,
+    "asOf": "17 September 2026"
   },
   "appren_eng": {
-    "count": 313,
-    "asOf": "9 September 2026"
+    "count": 343,
+    "asOf": "17 September 2026"
   },
   "jr_tech": {
-    "count": 182,
-    "asOf": "9 September 2026"
+    "count": 184,
+    "asOf": "17 September 2026"
   },
   "grad_eng": {
-    "count": 889,
-    "asOf": "9 September 2026"
+    "count": 828,
+    "asOf": "17 September 2026"
   },
   "engineer": {
-    "count": 10535,
-    "asOf": "9 September 2026"
+    "count": 10640,
+    "asOf": "17 September 2026"
   },
   "snr_eng": {
-    "count": 2625,
-    "asOf": "9 September 2026"
+    "count": 2699,
+    "asOf": "17 September 2026"
   },
   "princ_eng": {
-    "count": 231,
-    "asOf": "9 September 2026"
+    "count": 246,
+    "asOf": "17 September 2026"
   },
   "chief_eng": {
-    "count": 90,
-    "asOf": "9 September 2026"
+    "count": 84,
+    "asOf": "17 September 2026"
   },
   "eng_dir": {
-    "count": 708,
-    "asOf": "9 September 2026"
+    "count": 696,
+    "asOf": "17 September 2026"
   },
   "sec_stew": {
-    "count": 174,
-    "asOf": "9 September 2026"
+    "count": 176,
+    "asOf": "17 September 2026"
   },
   "sec_off": {
-    "count": 378,
-    "asOf": "9 September 2026"
+    "count": 370,
+    "asOf": "17 September 2026"
   },
   "corp_sec": {
-    "count": 560,
-    "asOf": "9 September 2026"
+    "count": 551,
+    "asOf": "17 September 2026"
   },
   "sec_lead": {
-    "count": 653,
-    "asOf": "9 September 2026"
+    "count": 660,
+    "asOf": "17 September 2026"
   },
   "sec_ops": {
-    "count": 675,
-    "asOf": "9 September 2026"
+    "count": 681,
+    "asOf": "17 September 2026"
   },
   "head_sec": {
-    "count": 305,
-    "asOf": "9 September 2026"
+    "count": 310,
+    "asOf": "17 September 2026"
   },
   "sec_consult": {
-    "count": 496,
-    "asOf": "9 September 2026"
+    "count": 532,
+    "asOf": "17 September 2026"
   }
 }
