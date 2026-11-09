@@ -1,258 +1,258 @@
 {
   "it_support": {
-    "count": 598,
-    "asOf": "1 November 2026"
+    "count": 641,
+    "asOf": "9 November 2026"
   },
   "it_tech": {
-    "count": 1437,
-    "asOf": "1 November 2026"
+    "count": 1536,
+    "asOf": "9 November 2026"
   },
   "web_dev": {
-    "count": 647,
-    "asOf": "1 November 2026"
+    "count": 689,
+    "asOf": "9 November 2026"
   },
   "qa_tester": {
     "count": 29,
-    "asOf": "1 November 2026"
+    "asOf": "9 November 2026"
   },
   "jr_data": {
-    "count": 2018,
-    "asOf": "1 November 2026"
+    "count": 2191,
+    "asOf": "9 November 2026"
   },
   "software_dev": {
-    "count": 1348,
-    "asOf": "1 November 2026"
+    "count": 1406,
+    "asOf": "9 November 2026"
   },
   "cyber": {
-    "count": 556,
-    "asOf": "1 November 2026"
+    "count": 602,
+    "asOf": "9 November 2026"
   },
   "cloud_eng": {
-    "count": 362,
-    "asOf": "1 November 2026"
+    "count": 366,
+    "asOf": "9 November 2026"
   },
   "recept": {
-    "count": 508,
-    "asOf": "1 November 2026"
+    "count": 510,
+    "asOf": "9 November 2026"
   },
   "cust_svc": {
-    "count": 2824,
-    "asOf": "1 November 2026"
+    "count": 3015,
+    "asOf": "9 November 2026"
   },
   "admin_a": {
-    "count": 5739,
-    "asOf": "1 November 2026"
+    "count": 5935,
+    "asOf": "9 November 2026"
   },
   "hr_asst": {
-    "count": 947,
-    "asOf": "1 November 2026"
+    "count": 984,
+    "asOf": "9 November 2026"
   },
   "off_coord": {
-    "count": 5024,
-    "asOf": "1 November 2026"
+    "count": 5215,
+    "asOf": "9 November 2026"
   },
   "hr_adv": {
-    "count": 1160,
-    "asOf": "1 November 2026"
+    "count": 1218,
+    "asOf": "9 November 2026"
   },
   "ops_off": {
-    "count": 7511,
-    "asOf": "1 November 2026"
+    "count": 7572,
+    "asOf": "9 November 2026"
   },
   "biz_dir": {
-    "count": 4295,
-    "asOf": "1 November 2026"
+    "count": 4401,
+    "asOf": "9 November 2026"
   },
   "care_train": {
-    "count": 3,
-    "asOf": "1 November 2026"
+    "count": 4,
+    "asOf": "9 November 2026"
   },
   "home_care": {
-    "count": 1153,
-    "asOf": "1 November 2026"
+    "count": 1398,
+    "asOf": "9 November 2026"
   },
   "care_supp": {
-    "count": 3147,
-    "asOf": "1 November 2026"
+    "count": 3365,
+    "asOf": "9 November 2026"
   },
   "health_a": {
-    "count": 1637,
-    "asOf": "1 November 2026"
+    "count": 1806,
+    "asOf": "9 November 2026"
   },
   "mh_supp": {
-    "count": 1003,
-    "asOf": "1 November 2026"
+    "count": 1052,
+    "asOf": "9 November 2026"
   },
   "snr_care": {
-    "count": 563,
-    "asOf": "1 November 2026"
+    "count": 585,
+    "asOf": "9 November 2026"
   },
   "dep_care": {
-    "count": 296,
-    "asOf": "1 November 2026"
+    "count": 372,
+    "asOf": "9 November 2026"
   },
   "care_dir": {
-    "count": 87,
-    "asOf": "1 November 2026"
+    "count": 82,
+    "asOf": "9 November 2026"
   },
   "class_sup": {
-    "count": 3431,
-    "asOf": "1 November 2026"
+    "count": 3703,
+    "asOf": "9 November 2026"
   },
   "teach_a": {
-    "count": 6171,
-    "asOf": "1 November 2026"
+    "count": 6678,
+    "asOf": "9 November 2026"
   },
   "learn_m": {
-    "count": 2028,
-    "asOf": "1 November 2026"
+    "count": 2095,
+    "asOf": "9 November 2026"
   },
   "youth_w": {
-    "count": 567,
-    "asOf": "1 November 2026"
+    "count": 577,
+    "asOf": "9 November 2026"
   },
   "tutor": {
-    "count": 13228,
-    "asOf": "1 November 2026"
+    "count": 14275,
+    "asOf": "9 November 2026"
   },
   "past_lead": {
-    "count": 133,
-    "asOf": "1 November 2026"
+    "count": 120,
+    "asOf": "9 November 2026"
   },
   "prog_lead": {
-    "count": 721,
-    "asOf": "1 November 2026"
+    "count": 766,
+    "asOf": "9 November 2026"
   },
   "head_teach": {
-    "count": 512,
-    "asOf": "1 November 2026"
+    "count": 511,
+    "asOf": "9 November 2026"
   },
   "con_train": {
-    "count": 4,
-    "asOf": "1 November 2026"
+    "count": 1,
+    "asOf": "9 November 2026"
   },
   "labourer": {
-    "count": 172,
-    "asOf": "1 November 2026"
+    "count": 168,
+    "asOf": "9 November 2026"
   },
   "banksman": {
-    "count": 5,
-    "asOf": "1 November 2026"
+    "count": 6,
+    "asOf": "9 November 2026"
   },
   "cscs_op": {
-    "count": 107,
-    "asOf": "1 November 2026"
+    "count": 116,
+    "asOf": "9 November 2026"
   },
   "site_adm": {
-    "count": 416,
-    "asOf": "1 November 2026"
+    "count": 429,
+    "asOf": "9 November 2026"
   },
   "asst_sm": {
-    "count": 930,
-    "asOf": "1 November 2026"
+    "count": 942,
+    "asOf": "9 November 2026"
   },
   "site_mgr": {
-    "count": 1619,
-    "asOf": "1 November 2026"
+    "count": 1633,
+    "asOf": "9 November 2026"
   },
   "proj_mgr": {
-    "count": 2141,
-    "asOf": "1 November 2026"
+    "count": 2273,
+    "asOf": "9 November 2026"
   },
   "wh_train": {
     "count": 10,
-    "asOf": "1 November 2026"
+    "asOf": "9 November 2026"
   },
   "wh_op": {
-    "count": 1378,
-    "asOf": "1 November 2026"
+    "count": 1416,
+    "asOf": "9 November 2026"
   },
   "picker": {
-    "count": 121,
-    "asOf": "1 November 2026"
+    "count": 124,
+    "asOf": "9 November 2026"
   },
   "delivery": {
-    "count": 6600,
-    "asOf": "1 November 2026"
+    "count": 6812,
+    "asOf": "9 November 2026"
   },
   "dispatch": {
-    "count": 461,
-    "asOf": "1 November 2026"
+    "count": 472,
+    "asOf": "9 November 2026"
   },
   "trans_plan": {
-    "count": 313,
-    "asOf": "1 November 2026"
+    "count": 343,
+    "asOf": "9 November 2026"
   },
   "wh_lead": {
-    "count": 495,
-    "asOf": "1 November 2026"
+    "count": 493,
+    "asOf": "9 November 2026"
   },
   "log_coord": {
-    "count": 1539,
-    "asOf": "1 November 2026"
+    "count": 1543,
+    "asOf": "9 November 2026"
   },
   "wh_mgr": {
-    "count": 946,
-    "asOf": "1 November 2026"
+    "count": 941,
+    "asOf": "9 November 2026"
   },
   "appren_eng": {
-    "count": 358,
-    "asOf": "1 November 2026"
+    "count": 398,
+    "asOf": "9 November 2026"
   },
   "jr_tech": {
-    "count": 181,
-    "asOf": "1 November 2026"
+    "count": 193,
+    "asOf": "9 November 2026"
   },
   "grad_eng": {
-    "count": 551,
-    "asOf": "1 November 2026"
+    "count": 566,
+    "asOf": "9 November 2026"
   },
   "engineer": {
-    "count": 9961,
-    "asOf": "1 November 2026"
+    "count": 10249,
+    "asOf": "9 November 2026"
   },
   "snr_eng": {
-    "count": 2651,
-    "asOf": "1 November 2026"
+    "count": 2888,
+    "asOf": "9 November 2026"
   },
   "princ_eng": {
-    "count": 288,
-    "asOf": "1 November 2026"
+    "count": 348,
+    "asOf": "9 November 2026"
   },
   "chief_eng": {
-    "count": 99,
-    "asOf": "1 November 2026"
+    "count": 88,
+    "asOf": "9 November 2026"
   },
   "eng_dir": {
-    "count": 748,
-    "asOf": "1 November 2026"
+    "count": 814,
+    "asOf": "9 November 2026"
   },
   "sec_stew": {
-    "count": 201,
-    "asOf": "1 November 2026"
+    "count": 194,
+    "asOf": "9 November 2026"
   },
   "sec_off": {
-    "count": 260,
-    "asOf": "1 November 2026"
+    "count": 343,
+    "asOf": "9 November 2026"
   },
   "corp_sec": {
-    "count": 527,
-    "asOf": "1 November 2026"
+    "count": 497,
+    "asOf": "9 November 2026"
   },
   "sec_lead": {
-    "count": 675,
-    "asOf": "1 November 2026"
+    "count": 658,
+    "asOf": "9 November 2026"
   },
   "sec_ops": {
-    "count": 668,
-    "asOf": "1 November 2026"
+    "count": 680,
+    "asOf": "9 November 2026"
   },
   "head_sec": {
-    "count": 365,
-    "asOf": "1 November 2026"
+    "count": 375,
+    "asOf": "9 November 2026"
   },
   "sec_consult": {
-    "count": 570,
-    "asOf": "1 November 2026"
+    "count": 626,
+    "asOf": "9 November 2026"
   }
 }
